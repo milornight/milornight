@@ -35,8 +35,10 @@ Don't hesitate to contact me if you have any questions:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Modelsim](https://img.shields.io/badge/modelsim-FFFFF?style=for-the-badge&logo=modelsim&logoColor=ffdd54)
+![Modelsim](https://img.shields.io/badge/modelsim-%23013243?style=for-the-badge&logo=modelsim&logoColor=ffdd54)
 ![Kicad](https://img.shields.io/badge/Kicad-FCC624?style=for-the-badge&logo=kicad&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-%2300599C?style=for-the-badge&logo=matlab&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Librairies
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
