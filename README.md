@@ -12,10 +12,6 @@ Don't hesitate to contact me if you have any questions:
 [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:qianhui.jin@yahoo.fr)](mailto:qianhui.jin@yahoo.fr)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/milornight)](https://github.com/milornight)
 
-![milornight's GitHub stats](https://github-readme-stats.vercel.app/api?username=milornight&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milornight&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 #
 ### :computer: OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,3 +42,9 @@ Don't hesitate to contact me if you have any questions:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+# Stats
+
+![milornight's GitHub stats](https://github-readme-stats.vercel.app/api?username=milornight&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milornight&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
